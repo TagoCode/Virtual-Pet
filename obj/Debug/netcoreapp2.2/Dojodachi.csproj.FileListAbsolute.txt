@@ -1,0 +1,93 @@
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.deps.json
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.json
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.dev.json
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.dll
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.pdb
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.dll
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csprojAssemblyReference.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CoreCompileInputs.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfoInputs.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfo.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.input.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.output.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorCoreGenerate.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dojodachi.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cache
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cs
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.dll
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.pdb
+C:/Users/stacl/Desktop/Coding_Dojo/C_Sharp_June/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CopyComplete
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.deps.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.dev.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csprojAssemblyReference.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfoInputs.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.input.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.output.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorCoreGenerate.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dojodachi.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/C_Sharp/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CopyComplete
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.deps.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.runtimeconfig.dev.json
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/bin/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csprojAssemblyReference.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorAssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfoInputs.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.AssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.input.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.TagHelpers.output.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorCoreGenerate.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Dojodachi.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cache
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.RazorTargetAssemblyInfo.cs
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.Views.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.dll
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.pdb
+/Users/tashhomefolder/Desktop/CodingDojoFiles/NET Core/ASP_MVC/Dojodachi/obj/Debug/netcoreapp2.2/Dojodachi.csproj.CopyComplete

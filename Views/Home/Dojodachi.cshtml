@@ -1,0 +1,47 @@
+﻿@using Dojodachi.Models
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4"><marquee>Tamagotchi!</marquee></h1>
+
+<h4>Fullness: @ViewBag.tamagachi.Fullness Happiness: @ViewBag.tamagachi.Happiness Meals: @ViewBag.tamagachi.Meals Energy:@ViewBag.tamagachi.Energy</h4>
+@if (ViewBag.tamagachi.Fullness >= 100 && ViewBag.tamagachi.Happiness >= 100 && ViewBag.tamagachi.Energy >= 100)
+{
+    <h1>Congrats you win!!!</h1>
+}
+@if (ViewBag.tamagachi.Fullness <= 0 || ViewBag.tamagachi.Happiness <= 0 || ViewBag.tamagachi.Energy <= 0)
+{
+    <h1>Oh no! your Tashmagotchi has died!!!</h1>
+}
+<img src="img/download.jpg" alt="Dojodachi">
+
+@{if (ViewBag.game.over == false)
+    {
+        <form action="dojodachi/feed" method="POST">
+            <input type="submit" value="Feed">
+            <p>(Takes 1 Food, Fullness increases by 5 to 10, but there is a chance that Tash won't like it.)</p>
+        </form>
+        <form action="dojodachi/play" method="POST">
+            <input type="submit" value="Play">
+            <p>(Takes 5 Energy, Happiness increases by 5 to 10, but there is a chance that Tash won't like you.)</p>
+        </form>
+        <form action="dojodachi/work" method="POST">
+            <input type="submit" value="Work">
+            <p>(Takes 5 Energy, Food increases by 1 to 3.)</p>
+        </form>
+        <form action="dojodachi/sleep" method="POST">
+            <input type="submit" value="Sleep">
+            <p>(Takes 5 Fullness and Happiness, Energy increases by 15.)</p>
+        </form>
+    }
+    else
+    {
+        <form action="restart" method="POST">
+            <input type="submit" value="Restart">
+        </form>
+    }
+}
+
+</div>
